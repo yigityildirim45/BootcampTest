@@ -51,11 +51,8 @@ Eşdeğer Bölümleme
 
 Test Raporları:
 
-[Dosya Adı] dosyası, test sonuçlarını ve bulguları detaylandırır.
+Reports dosyası ve Paneli, test sonuçlarını ve bulguları detaylandırır.
 
 Katkıda Bulunma:
 
 Projeye katkıda bulunmak için, Github repo'suna bir "pull request" gönderin.
-
-Lisans
-Bu repo, [Lisans Adı] lisansı altında lisanslanmıştır.
